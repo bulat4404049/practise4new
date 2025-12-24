@@ -1,0 +1,6 @@
+#=
+IT конфигурация
+=#
+const timeout = 30.0
+ports = array(8080.0, 443.0, 3000.0)
+service = { timeout : .[timeout]., retries : 3.0 }

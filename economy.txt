@@ -1,0 +1,7 @@
+#=
+Экономический бюджет
+=#
+const salary = 50000.0
+const bonus = 15000.0
+expenses = array(12000.0, 8000.0, .[bonus].)
+budget = { base : .[salary]., bonus : .[bonus]. }

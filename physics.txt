@@ -1,0 +1,7 @@
+#=
+Физический эксперимент
+=#
+const g = 9.8
+const t = 2.0
+distance = array(0.0, .[g]., .[g].)
+experiment = { acceleration : .[g]., time : .[t]. }
